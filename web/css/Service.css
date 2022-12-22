@@ -1,0 +1,45 @@
+
+
+.slide {
+    height: 300px;
+   
+}
+.icon1 {
+    position: relative;
+    display: inline-block !important;
+    background: floralwhite;
+    height: 55px;
+    /* width: 55px; */
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.icon2 {
+    position: relative;
+    display: inline-block !important;
+    background: floralwhite;
+    height: 55px;
+    /* width: 55px; */
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.collapse .navbar-nav .nav-item{
+    display: block;
+    text-align: left;
+    padding: 0px 30px;
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 700;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+}
+.tab .container .row .col-3 .card{
+    margin-bottom: 20px;
+}

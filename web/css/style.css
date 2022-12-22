@@ -1,0 +1,145 @@
+ .icon1 {
+    position: relative;
+    display: inline-block !important;
+    background: white;
+    height: 55px;
+     /* width: 55px; */
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+} 
+
+.icon2 {
+    position: relative;
+    display: inline-block !important;
+    background: white;
+    height: 55px;
+     /* width: 55px;  */
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 20px;
+    text-decoration: none;
+} 
+
+
+.collapse .navbar-nav .nav-item{
+    display: block;
+    text-align: left;
+    padding: 0px 30px;
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 700;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.slide {
+    height: 500px;
+   
+}
+.conta {
+    height: -100px;
+    margin-top: -10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    position: relative;
+    z-index: 9;
+    
+}
+
+
+.conta img{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    height: 130px;
+    width: 130px;
+    border: 3pxsolidrgba(229,229,229,0.34);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 5px;
+    overflow: hidden;
+}
+.conta p{
+    text-align: center;
+}
+
+.container .left img{
+    width: 350px;
+    text-align: right;
+    
+    
+}
+
+.container .right h3 {
+    text-align: center;
+    font-size: 59px;
+    font-weight: 400;
+    color: #5b5b5b !important;
+    text-transform: none !important;
+    font-family: 'SVN Artful Beauty';
+    /* margin-left: -70px; */
+}
+
+.container .right h2 {
+    text-align: center;
+    font-family: "Mulish",sans-serif;
+    font-size: 35px;
+    color: #339538 !important;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: normal;
+    /* margin-left: -130px; */
+  
+    
+}
+
+.contentpage {
+    /* margin-left: -100px; */
+    margin-top: 50px;
+}
+
+.img_intro_list {
+    margin-top: 80px;
+    margin-left: -200px;
+    z-index: 99;
+    border-radius: 20px;
+    padding: 10px;
+    background: rgb(235, 240, 234);
+    position: relative;
+}
+.swiper-container {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
+.swiper-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    transition-property: transform;
+    box-sizing: content-box;
+}
+.container .row .navtab{
+    text-align: center;
+ 
+}
+.container .row .navtab button{
+    padding: 7px 30px;
+}
+
+
